@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343437523149",
+    "project_id": "fir-e6746",
+    "storage_bucket": "fir-e6746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343437523149:android:63465d539dad772b989184",
+        "android_client_info": {
+          "package_name": "com.teachese.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIgnQqtEdeeqbCUHflb-zsD0LbqzgWTMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
